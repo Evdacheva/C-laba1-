@@ -1,0 +1,3 @@
+﻿  laba1.3.cpp
+C:\Users\23423\source\repos\laba1.3\laba1.3\laba1.3.cpp(18): error C4716: strcmp: должна возвращать значение
+C:\Users\23423\source\repos\laba1.3\laba1.3\laba1.3.cpp(11): error C4700: использована неинициализированная локальная переменная "result"
